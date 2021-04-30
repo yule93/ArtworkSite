@@ -1,0 +1,2 @@
+(this["webpackJsonpartworks-site"]=this["webpackJsonpartworks-site"]||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);var r=s(1),c=s.n(r),n=s(3),a=s.n(n),i=(s(8),s(0));var o=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("header",{className:"App-header"})})};a.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.fead0697.chunk.js.map
